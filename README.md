@@ -3,7 +3,8 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Ticketing System Setup (OS Ticket)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Pre-Installaion Setup](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Post-Installation Setup](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Active Directory (Microsoft Azure)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
