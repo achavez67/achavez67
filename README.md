@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Ticketing System Setup (OS Ticket)</b>
-  - [Pre-Installaion Setup](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Pre-Installaion Setup](https://github.com/achavez67/osticket-prereqs)
   - [Post-Installation Setup](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Active Directory (Microsoft Azure)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
