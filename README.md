@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b>Ticketing System Setup (OS Ticket)</b>
+- <b>Ticketing System Setup (osTicket)</b>
   - [Pre-Installaion Setup](https://github.com/achavez67/osticket-prereqs)
   - [Post-Installation Setup](https://github.com/achavez67/osticket-postinstallation)
 - <b>Active Directory (Microsoft Azure)</b>
