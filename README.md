@@ -7,8 +7,8 @@
   - [Post-Installation Setup](https://github.com/achavez67/osticket-postinstallation)
 - <b>VPN Setup and Usage (Proton VPN)</b>
   - [VPN Setup and Usage](https://github.com/achavez67/VPN)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Deploying Active Directory and Creating Users </b>
+  - [Setting up resources in Azure and ensure connectivity between client and Domain Controller](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
