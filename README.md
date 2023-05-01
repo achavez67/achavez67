@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Ticketing System Setup (osTicket)</b>
-  - [Pre-Installaion Setup](https://github.com/achavez67/osticket-prereqs)
+  - [Pre-Installation Setup](https://github.com/achavez67/osticket-prereqs)
   - [Post-Installation Setup](https://github.com/achavez67/osticket-postinstallation)
 - <b>VPN Setup and Usage (Proton VPN)</b>
   - [VPN Setup and Usage](https://github.com/achavez67/VPN)
