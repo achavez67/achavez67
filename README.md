@@ -8,7 +8,7 @@
 - <b>VPN Setup and Usage (Proton VPN)</b>
   - [VPN Setup and Usage](https://github.com/achavez67/VPN)
 - <b>Deploying Active Directory and Creating Users </b>
-  - [Setting up resources in Azure and ensure connectivity between client and Domain Controller](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Setting up resources in Azure and ensure connectivity between client and Domain Controller](https://github.com/achavez67/ad-1)
   - [Installing Active Directory and Creating Admin and User Accounts](https://github.com/achavez67/AD-2)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
